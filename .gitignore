@@ -40,3 +40,11 @@ cache/
 *.tmp
 *.bak
 *.orig
+
+# ---- Archives (不提交压缩包) ----
+*.7z
+*.rar
+*.zip
+*.tar
+*.tar.gz
+*.tgz

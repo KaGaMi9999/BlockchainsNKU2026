@@ -6,7 +6,7 @@
 
 ### 一、项目构成
 
-github地址：[https://github.com/KaGaMi9999/BlockchainsNKU2026]()
+github地址：[KaGaMi9999/nku-2026-blockchains](https://github.com/KaGaMi9999/nku-2026-blockchains)
 
 Blockchains
 
